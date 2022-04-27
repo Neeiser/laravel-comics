@@ -6,7 +6,7 @@
     </div>
 
     <div class="navbar-container">
-        <img src="" alt="">
+        <img src="./images/dc-logo.png" alt="">
         <nav>
             <ul>
                 <li>characters</li>
@@ -23,5 +23,5 @@
         </nav>
         <input type="text">
     </div>
-    
+
 </header>

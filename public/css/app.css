@@ -14,9 +14,10 @@ header .header-trademarks {
 }
 header .navbar-container {
   display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 header .navbar-container ul {
   display: flex;
-  justify-content: space-between;
   list-style: none;
 }

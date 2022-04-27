@@ -13,9 +13,10 @@ header{
     }
     .navbar-container{
         display: flex;
+        align-items: center;
+        justify-content: space-between;
         ul{
             display: flex;
-            justify-content: space-between;
             list-style: none;
         }
     }
