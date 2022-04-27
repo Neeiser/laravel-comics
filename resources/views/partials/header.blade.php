@@ -28,8 +28,6 @@
         </div>
     </div>
 
-    <div class="jumbo-section">
-
-    </div>
+    <div class="jumbo-section"></div>
 
 </header>

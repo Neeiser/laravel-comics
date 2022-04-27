@@ -62,3 +62,10 @@ header .jumbo-section {
   background-image: url("/images/jumbotron.jpg");
   height: 400px;
 }
+
+.footer-container {
+  height: 400px;
+  background-image: url("/images/footer-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
