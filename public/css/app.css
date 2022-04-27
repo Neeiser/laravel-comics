@@ -1,3 +1,22 @@
-body {
-  background-color: red;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 150px;
+  border: 1px solid black;
+}
+header .header-trademarks {
+  display: flex;
+  justify-content: flex-end;
+}
+header .navbar-container {
+  display: flex;
+}
+header .navbar-container ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
 }

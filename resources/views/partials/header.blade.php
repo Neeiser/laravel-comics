@@ -1,11 +1,11 @@
 <header>
 
-    <div>
+    <div class="header-trademarks">
         <div>DC POWER <span>&#8480;</span> VISA <span>&reg;</span></div>
         <div>Additional DC Sites</div>
     </div>
 
-    <div>
+    <div class="navbar-container">
         <img src="" alt="">
         <nav>
             <ul>
@@ -23,4 +23,5 @@
         </nav>
         <input type="text">
     </div>
+    
 </header>
