@@ -5,46 +5,46 @@
                 <div>
                     <h2>dc comics</h2>
                     <ul>
-                        <li>Characters</li>
-                        <li>Comics</li>
-                        <li>Movies</li>
-                        <li>TV</li>
-                        <li>Games</li>
-                        <li>Videos</li>
-                        <li>News</li>
-                    </ul>
-                </div>
-                <div>
-                    <h2>dc</h2>
-                    <ul>
-                        <li>Terms Of Use</li>
-                        <li>Privacy Policy (New)</li>
-                        <li>Ad Choise</li>
-                        <li>Advertising</li>
-                        <li>Jobs</li>
-                        <li>Subscriptions</li>
-                        <li>Talent Workshop</li>
-                        <li>CPSC Certificates</li>
-                        <li>Ratings</li>
-                        <li>Shop Helps</li>
-                        <li>Contact Us</li>
-                    </ul>
-                </div>
-                <div>
-                    <h2>sites</h2>
-                    <ul>
-                        <li>DC</li>
-                        <li>MAD Magazine</li>
-                        <li>DC Kids</li>
-                        <li>DC Universe</li>
-                        <li>DC Power Visa</li>
+                        <li><a href="">Characters</a></li>
+                        <li><a href="">Comics</a></li>
+                        <li><a href="">Movies</a></li>
+                        <li><a href="">TV</a></li>
+                        <li><a href="">Games</a></li>
+                        <li><a href="">Videos</a></li>
+                        <li><a href="">News</a></li>
                     </ul>
                 </div>
                 <div>
                     <h2>shop</h2>
                     <ul>
-                        <li>Shop DC</li>
-                        <li>Shop DC Collectibles</li>
+                        <li><a href="">Shop DC</a></li>
+                        <li><a href="">Shop DC Collectibles</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h2>dc</h2>
+                    <ul>
+                        <li><a href="">Terms Of Use</a></li>
+                        <li><a href="">Privacy Policy (New)</a></li>
+                        <li><a href="">Ad Choise</a></li>
+                        <li><a href="">Advertising</a></li>
+                        <li><a href="">Jobs</a></li>
+                        <li><a href="">Subscriptions</a></li>
+                        <li><a href="">Talent Workshop</a></li>
+                        <li><a href="">CPSC Certificates</a></li>
+                        <li><a href="">Ratings</a></li>
+                        <li><a href="">Shop Helps</a></li>
+                        <li><a href="">Contact Us</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h2>sites</h2>
+                    <ul>
+                        <li><a href="">DC</a></li>
+                        <li><a href="">MAD Magazine</a></li>
+                        <li><a href="">DC Kids</a></li>
+                        <li><a href="">DC Universe</a></li>
+                        <li><a href="">DC Power Visa</a></li>
                     </ul>
                 </div>
                 <span>All Site Content TM and © 2020 DC Entertainment, unless otherwise <a href="">noted here</a>. All rights reserved.<br><a href="">Cookies Settings</a></span>
