@@ -8,6 +8,14 @@ header{
             justify-content: flex-end;
             align-items: center;
             height: 25px;
+            div{
+                padding-left: 50px;
+                font-size: 0.8rem;
+                text-transform: uppercase;
+                span{
+                    font-size: 0.7rem;
+                }
+            }
         }
     }
     .navbar-box{
@@ -29,4 +37,9 @@ header{
             }
         }
     }
+    .jumbo-section{
+        background-image: url('/images/jumbotron.jpg');
+        height: 400px;
+    }
 }
+
