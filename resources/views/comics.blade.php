@@ -3,6 +3,8 @@
 @section('title', 'DC Comics - Comics')
 
 @section('content')
-    <h1>ciao</h1>
+    @foreach ($comics as $comic)
+        <img src="{{ $comic['thumb'] }}" alt="">
+    @endforeach
 @endsection
     
