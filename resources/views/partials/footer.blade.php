@@ -57,8 +57,13 @@
             <div>
                 <button>sign-up now!</button>
             </div>
-            <div>
+            <div class="footer-bottom-social">
                 <h2>follow us</h2>
+                <a href=""><img src="./images/footer-facebook.png" alt=""></a>
+                <a href=""><img src="./images/footer-twitter.png" alt=""></a>
+                <a href=""><img src="./images/footer-youtube.png" alt=""></a>
+                <a href=""><img src="./images/footer-pinterest.png" alt=""></a>
+                <a href=""><img src="./images/footer-periscope.png" alt=""></a>
             </div>
         </div>
     </div>

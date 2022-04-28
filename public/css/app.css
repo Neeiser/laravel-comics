@@ -135,6 +135,14 @@ header .jumbo-section {
   color: #ffffff;
   font-size: 1rem;
 }
-.footer-bottom .footer-bottom-box h2 {
+.footer-bottom .footer-bottom-box .footer-bottom-social {
+  display: flex;
+  align-items: center;
+}
+.footer-bottom .footer-bottom-box .footer-bottom-social h2 {
   color: #0282f9;
+  padding-right: 10px;
+}
+.footer-bottom .footer-bottom-box .footer-bottom-social a {
+  padding: 0px 5px;
 }
