@@ -116,3 +116,25 @@ header .jumbo-section {
   background-repeat: no-repeat;
   background-position-y: -50px;
 }
+
+.footer-bottom {
+  background-color: #303030;
+}
+.footer-bottom .footer-bottom-box {
+  height: 100px;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.footer-bottom .footer-bottom-box button {
+  text-transform: uppercase;
+  padding: 15px 30px;
+  background-color: transparent;
+  border: 2px solid #0282f9;
+  color: #ffffff;
+  font-size: 1rem;
+}
+.footer-bottom .footer-bottom-box h2 {
+  color: #0282f9;
+}

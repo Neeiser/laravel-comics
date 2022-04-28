@@ -52,4 +52,14 @@
             <div class="footer-logo"></div>
         </div>
     </div>
+    <div class="footer-bottom">
+        <div class="margin-100 footer-bottom-box">
+            <div>
+                <button>sign-up now!</button>
+            </div>
+            <div>
+                <h2>follow us</h2>
+            </div>
+        </div>
+    </div>
 </footer>
