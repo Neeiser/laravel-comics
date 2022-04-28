@@ -146,3 +146,42 @@ header .jumbo-section {
 .footer-bottom .footer-bottom-box .footer-bottom-social a {
   padding: 0px 5px;
 }
+
+main {
+  background-color: #1c1c1c;
+}
+main .comics-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  color: white;
+  font-weight: 500;
+  padding: 50px 0;
+  position: relative;
+}
+main .comics-container h1 {
+  background-color: #0282f9;
+  color: white;
+  padding: 10px 20px;
+  position: absolute;
+  top: -20px;
+  left: 0;
+  font-size: 1.2rem;
+}
+main .comics-container .comics-box {
+  flex-basis: 16.6666666667%;
+  height: 400px;
+  /* img{     SE VOGLIO LE IMMAGINI TAGLIATE COME DA ESERCIZIO. A ME PIACE CON L'IMMAGINE INTERA.
+      height: 230px;
+      object-fit: cover;
+      object-position: top;
+  } */
+}
+main .comics-container .comics-box img,
+main .comics-container .comics-box h2 {
+  padding: 10px;
+}
+main .comics-container .comics-box h2 {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+}
