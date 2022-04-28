@@ -168,6 +168,12 @@ main .comics-container h1 {
   left: 0;
   font-size: 1.2rem;
 }
+main .comics-container button {
+  color: #ffffff;
+  background-color: #0282f9;
+  border: none;
+  padding: 10px 40px;
+}
 main .comics-container .comics-box {
   flex-basis: 16.6666666667%;
   height: 400px;
@@ -184,4 +190,26 @@ main .comics-container .comics-box h2 {
 main .comics-container .comics-box h2 {
   font-size: 0.8rem;
   text-transform: uppercase;
+}
+main section {
+  background-color: #0282f9;
+}
+main section .merch-container {
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+main section .merch-container a {
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  padding: 20px;
+}
+main section .merch-container a img {
+  height: 50px;
+}
+main section .merch-container a span {
+  font-size: 0.9rem;
+  margin: 0 10px;
 }
